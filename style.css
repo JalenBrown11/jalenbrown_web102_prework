@@ -3,6 +3,9 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    /* Added: website can only scroll up-down */
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 #tentacles {
@@ -21,6 +24,13 @@ body {
 
 .stats-container {
     display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
