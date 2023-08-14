@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-The question were a challenge somewhat due to some vague questions but overall good activities. Besides the questions, reading through the code was also good but I'd sometimes miss seeing a variable or earlier explaination. 
+The questions for some of the challenges were difficult due to some being vague but overall the questions were engaging activities. Besides the questions, reading through the code was fun but I'd sometimes miss seeing a variable or earlier explaination causing some issues. In summary, the treasure hunt was interesting in how it incorporated web development with some trivia for learning!  
 
 ## License
 
